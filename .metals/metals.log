@@ -1,0 +1,81 @@
+2026.02.21 21:08:04 INFO  Started: Metals version 1.6.4+106-9a3ae2be-SNAPSHOT in folders 'C:\Users\fozie\banking-system, C:\Users\fozie\banking-system\backend' for client Visual Studio Code 1.109.5.
+2026.02.21 21:08:11 INFO  Memory monitor started
+2026.02.21 21:08:12 INFO  Database: jdbc:h2:file:C:\Users\fozie\banking-system\backend\.metals\metals (H2 2.4)
+2026.02.21 21:08:12 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.21 21:08:12 INFO  Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2026.02.21 21:08:12 INFO  Successfully validated 7 migrations (execution time 00:00.044s)
+2026.02.21 21:08:12 INFO  Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2026.02.21 21:08:12 INFO  Current version of schema "PUBLIC": << Empty Schema >>
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "1 - Create tables"
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "2 - Server discovery"
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "3 - Jar symbols"
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "4 - Fingerprints"
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "5 - Jar type hierarchy"
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "6 - Delete indices"
+2026.02.21 21:08:12 INFO  Migrating schema "PUBLIC" to version "7 - Toplevel members"
+2026.02.21 21:08:12 INFO  Successfully applied 7 migrations to schema "PUBLIC", now at version v7 (execution time 00:00.115s)
+2026.02.21 21:08:14 INFO  Database: jdbc:h2:file:C:\Users\fozie\banking-system\.metals\metals (H2 2.4)
+2026.02.21 21:08:14 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.21 21:08:14 INFO  Successfully validated 7 migrations (execution time 00:00.035s)
+2026.02.21 21:08:14 INFO  Current version of schema "PUBLIC": 7
+2026.02.21 21:08:14 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2026.02.21 21:08:14 INFO  skipping build import with status 'Dismissed'
+févr. 21, 2026 9:08:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.02.21 21:08:15 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
+2026.02.21 21:08:19 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
+févr. 21, 2026 9:08:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.02.21 21:08:25 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
+févr. 21, 2026 9:11:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.21 21:11:54 INFO  logging to files C:\Users\fozie\banking-system\backend\.metals\metals.log
+2026.02.21 21:11:54 INFO  Shutting down server
+2026.02.21 21:11:54 INFO  Memory monitor stopped
+2026.02.21 21:11:54 INFO  shutting down Metals
+2026.02.21 21:11:54 INFO  Exiting server
+2026.02.21 21:12:06 INFO  Started: Metals version 1.6.4+106-9a3ae2be-SNAPSHOT in folders 'C:\Users\fozie\banking-system\backend' for client Visual Studio Code 1.109.5.
+2026.02.21 21:12:06 INFO  Memory monitor started
+2026.02.21 21:12:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.21 21:12:17 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
+févr. 21, 2026 9:12:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+févr. 21, 2026 9:12:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+févr. 21, 2026 9:12:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+févr. 21, 2026 9:12:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+févr. 21, 2026 9:12:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+févr. 21, 2026 9:12:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.02.21 21:12:23 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
+2026.02.21 21:12:29 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
+2026.02.21 21:13:18 INFO  Shutting down server
+2026.02.21 21:13:18 INFO  Memory monitor stopped
+2026.02.21 21:13:18 INFO  shutting down Metals
+2026.02.21 21:13:18 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2026.02.21 21:13:18 INFO  Exiting server
+2026.02.21 21:13:28 INFO  Started: Metals version 1.6.4+106-9a3ae2be-SNAPSHOT in folders 'C:\Users\fozie\banking-system\backend' for client Visual Studio Code 1.109.5.
+2026.02.21 21:13:28 INFO  Memory monitor started
+2026.02.21 21:13:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+févr. 21, 2026 9:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+févr. 21, 2026 9:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+févr. 21, 2026 9:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.21 21:13:39 INFO  no build target found for C:\Users\fozie\banking-system\backend\src\main\java\com\bank\banking_system\BankingSystemApplication.java. Using fallback presentation compiler.
