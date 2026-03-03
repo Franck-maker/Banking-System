@@ -28,7 +28,7 @@ public class Account {
     //Business logic : Encapsulation
     //we don't provide a setBalance() because a balance
     //should only be modified through deposit and withdrawal methods
-    public void Deposit(BigDecimal amount){
+    public void deposit(BigDecimal amount){
         if(amount.compareTo(BigDecimal.ZERO) <= 0){
             throw new IllegalArgumentException("the amount must be greater than zero"); 
         }
